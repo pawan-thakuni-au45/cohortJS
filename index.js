@@ -13,7 +13,7 @@
 // console.log(b);
 // console.log("jji")
 
-console.log("hee") //will go in callstack in very frist
+console.log("hii") //will go in callstack in very frist
 
 function timeout(){
     console.log('time');
