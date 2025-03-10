@@ -1,8 +1,12 @@
 # cohortJS
 
 1> git pull --rebase origin <name-of-the-remote-branch>
+2-->why we use object-->we use object to structure "key" "value" pairs together,so that we dont have to define them sepretly
 
-This will fetch the remote changes in to your local branch . On top of that it will apply your local commits .
-2> git push origin <name-of-the-remote-branch>
+const Mummy={
+    love:"most",==========================>     Const mummyLove="most",
+                                                 const mummyWorld="mummi"
 
-This will apply your local changes in  local copy of the remote branch to the actual remote branch repo in git
+    world:"mummui"
+}
+console.log(Mummy)
